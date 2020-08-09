@@ -3,9 +3,10 @@ Week 0;
 
 > Basic understanding of course and gethering information that suitable for you.
 
-(HTML & CSS: Design and Build Web Sites) Learning PHP, MySQL, JavaScript, and framwork
+(HTML & CSS: Design and Build Web Sites)
+Learning PHP, MySQL, JavaScript, and framwork
 
-php - `diamemic website` 
+php - `diamemic website` <br>
 javascript - `animeted web` + `diamemic`
 
 MVC PHP framework : ASP.NET
@@ -17,22 +18,22 @@ Week 01;
 
 + HTML5 elements 
 
-|Element selector    | h1, h2, h3, P 	|
-|class selector      | .symbol 			|
-|ID selector         | #symbol 		 	|	
-|universal selector  | *symbol			|
+Element selector    | h1, h2, h3, P <br>	
+class selector      | .symbol 		<br>	
+ID selector         | #symbol 		<br> 		
+universal selector  | *symbol			<br>
 
 + Basic CSS
-⋅⋅⋅	=> Positioning 
-⋅⋅⋅	=> Model Box
-⋅⋅⋅	=> Flexbox
-⋅⋅⋅	=> Grid
-⋅⋅⋅	=> Custom properties 
+	1. Positioning 
+	1. Model Box
+	1. Flexbox
+	1. Grid
+ 	1. Custom properties 
 	
 + Responsive layout	
-⋅⋅⋅	=> Media Queries
-⋅⋅⋅	=> Rem Unit
-⋅⋅⋅	=> MObil first 
+	* Media Queries
+	* Rem Unit
+	* MObil first 
 	
 + Browser dev tools
 ---
@@ -41,8 +42,8 @@ Week 01;
 	* Manage Hosting With cPannel
 	* FTP/SFTP Uploader - Filezilla 
 	* Static Hosting 
-	...* Netlify
-	...* Github pages 
+		* Netlify
+		* Github pages 
 
 
 
