@@ -1,5 +1,5 @@
 ## Learning Markup Language 
-Week 0;
+<font color='red'> Week 0;</font>
 
 > Basic understanding of course and gethering information that suitable for you.
 
@@ -14,7 +14,7 @@ php - framewrok : Laravel, CodeIgniter <br>
 javascript - framework : React, Vue, Angular & jQuery
 
 ### Basic-HTML & CSS 
-Week 01;
+<font color='red'> Week 01;</font>
 
 + HTML5 Elements 
 	- [Element selector](https://developer.mozilla.org/en-US/docs/Web/HTML/Element "HTML Element Reference") 		 : `h1, h2, h3, P`<br>	
@@ -38,7 +38,7 @@ Week 01;
 ---
 
 ### Basic Deployments 
-week 02;
+<font color='red'> Week 02;</font>
 
 * Domain Name
 * Manage Hosting With cPannel
@@ -48,14 +48,25 @@ week 02;
 	- Github pages 
 
 ### JavaScript
-week 03;
+<font color='red'> Week 03 -04;</font>
 
 + Vanila Js (No framework)
+	- Syntax
+	- Variable
+	- Array / Objects
 	- Data type
+	- Events
 	- Functions
 	- Conditions
 	- Loops
+	
 + DOM Manipulation & events
+(High order array methods - Manupulating data)
+	- For each
+	- Map
+	- Filter
+	- Reduce
+	
 + Fetch API & Json 
 + ES6 + Features:
 	- Arrow Functions
@@ -63,13 +74,19 @@ week 03;
 	- Async / Await
 	- Destructuring
 	- Template Strings
-	
+	- Classes
+		* Structure
+		* sonstructors
+		* methods / properties
+		* instantiation
+		* extending
+		
 ### php - mvc & mySql
-week 05;	
+<font color='red'> Week 05;</font>
 
 
 ### Side Technologies
-week 06;
+<font color='red'> Week 06;</font>
 * Git & Github
 * Basic Command Line
 	- npm
@@ -81,7 +98,7 @@ week 06;
 ---
 
 ### Framework & Back-End Languages
-week 07;
+<font color='red'> Week 07;</font>
 * Css-framework
 	- Bootstrap.v4 
 * Front-End 
