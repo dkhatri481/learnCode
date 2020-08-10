@@ -3,37 +3,36 @@ Week 0;
 
 > Basic understanding of course and gethering information that suitable for you.
 
-(HTML & CSS: Design and Build Web Sites) <br>
-Learning PHP, MySQL, JavaScript, and framwork
+(HTML & CSS: HTML `HyperText Markup Language` is the main markup language for creating web pages and other information to be displayed in a web browser and CSS `Cascading Style Sheets` allows you to create rules that specify how the content of an element should appear. For example, you can specify the background colors, bg-images or change colors, layout, fonts, and animations. <br>
+PHP, MySQL, JavaScript, and framework
 
 php - `diamemic website` <br>
-javascript - `animeted web` + `diamemic`
+javascript - `animeted web` + `diamemic web`
 
 MVC PHP framework : ASP.NET <br>
-php - framwrok : Laravel, CodeIgniter <br>
-javascript - framwork : React, Angular & jQuery
+php - framewrok : Laravel, CodeIgniter <br>
+javascript - framework : React, Vue, Angular & jQuery
 
 ### Basic-HTML & CSS 
 Week 01;
 
 + HTML5 Elements 
-
-Element selector    :`h1, h2, h3, P` <br>	
-class selector      : `.symbol` 		<br>	
-ID selector         : `#symbol` 		<br> 		
-universal selector  : `*symbol`		<br>
+	- [Element selector](https://developer.mozilla.org/en-US/docs/Web/HTML/Element "HTML Element Reference") 		 : `h1, h2, h3, P`<br>	
+	- Class selector      : `.symbol` 		<br>	
+	- ID selector         : `#symbol` 		<br> 		
+	- Universal selector  : `*symbol`		<br>
 
 + Basic CSS
-	* Positioning 
-	* Model Box
-	* Flexbox
-	* Grid
- 	* Custom properties 
+	- Positioning 
+	- Model Box
+	- Flexbox
+	- Grid
+ 	- Custom properties 
 	
 + Responsive layout	
-	* Media Queries
-	* Rem Unit
-	* MObil first 
+	- Media Queries
+	- Rem Unit
+	- MObil first 
 	
 + Browser dev tools
 ---
@@ -52,10 +51,10 @@ week 02;
 week 03;
 
 + Vanila Js (No framework)
-	* Data type
-	* Functions
-	* Conditions
-	* Loops
+	- Data type
+	- Functions
+	- Conditions
+	- Loops
 + DOM Manipulation & events
 + Fetch API & Json 
 + ES6 + Features:
@@ -65,8 +64,12 @@ week 03;
 	- Destructuring
 	- Template Strings
 	
+### php - mvc & mySql
+week 05;	
+
+
 ### Side Technologies
-week 04;
+week 06;
 * Git & Github
 * Basic Command Line
 	- npm
@@ -78,7 +81,7 @@ week 04;
 ---
 
 ### Framework & Back-End Languages
-week 05;
+week 07;
 * Css-framework
 	- Bootstrap.v4 
 * Front-End 
@@ -97,6 +100,8 @@ week 05;
 * Responsive Web-Design [mobil-first] 
 * Desctop App Development (Electron)
 * Graph Ql
-* typeScript [optional]		
+* typeScript [optional]
+
+#### Other useful links 
 
 
