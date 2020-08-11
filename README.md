@@ -1,5 +1,6 @@
 ## Learning Markup Language 
-<font color='red'> Week 0;</font>
+<span style="color:red">some **week 0;** text</span>
+
 
 > Basic understanding of course and gethering information that suitable for you.
 
@@ -14,7 +15,7 @@ php - framewrok : Laravel, CodeIgniter <br>
 javascript - framework : React, Vue, Angular & jQuery
 
 ### Basic-HTML & CSS 
-<font color='red'> Week 01;</font>
+<span style="color:red">some **week 01;** text</span>
 
 + HTML5 Elements 
 	- [Element selector](https://developer.mozilla.org/en-US/docs/Web/HTML/Element "HTML Element Reference") 		 : `h1, h2, h3, P`<br>	
@@ -38,7 +39,7 @@ javascript - framework : React, Vue, Angular & jQuery
 ---
 
 ### Basic Deployments 
-<font color='red'> Week 02;</font>
+<span style="color:red">some **week 02;** text</span>
 
 * Domain Name
 * Manage Hosting With cPannel
@@ -48,11 +49,15 @@ javascript - framework : React, Vue, Angular & jQuery
 	- Github pages 
 
 ### JavaScript
-<font color='red'> Week 03 -04;</font>
+<span style="color:red">some **week 03-04;** text</span>
 
-+ Vanila Js (No framework)
-	- Syntax
-	- Variable
++ Vanila Js (No framework) >> JavaScript can be scripting or programming language that allows you to implement complex features on web pages — that makes your website or app interactive 
+> The fasterst growing and msot popular programming language - <span style="color:red">some **StackOverflow** text</span>
+> The programming language of the web 
+> Can update and change both HTML and CSS
+> Fast and versatile
+> Java != JavaScript
+	[x] [Variable](/Code/variable.md) >>
 	- Array / Objects
 	- Data type
 	- Events
@@ -82,11 +87,11 @@ javascript - framework : React, Vue, Angular & jQuery
 		* extending
 		
 ### php - mvc & mySql
-<font color='red'> Week 05;</font>
+<span style="color:red">some **week 05;** text</span>
 
 
 ### Side Technologies
-<font color='red'> Week 06;</font>
+<span style="color:red">some **week 06;** text</span>
 * Git & Github
 * Basic Command Line
 	- npm
@@ -98,7 +103,7 @@ javascript - framework : React, Vue, Angular & jQuery
 ---
 
 ### Framework & Back-End Languages
-<font color='red'> Week 07;</font>
+<span style="color:red">some **week 07;** text</span>
 * Css-framework
 	- Bootstrap.v4 
 * Front-End 
