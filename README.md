@@ -19,9 +19,9 @@ week 01;
 
 + HTML5 Elements 
 	- [x] [Element selector](https://developer.mozilla.org/en-US/docs/Web/HTML/Element "HTML Element Reference") 		 : `h1, h2, h3, P`<br>	
-	- Class selector      : `.symbol` 		<br>	
-	- ID selector         : `#symbol` 		<br> 		
-	- Universal selector  : `*symbol`		<br>
+	- [] Class selector      : `.symbol` 		<br>	
+	- [] ID selector         : `#symbol` 		<br> 		
+	- [] Universal selector  : `*symbol`		<br>
 
 + Basic CSS
 	- Positioning 
@@ -52,19 +52,19 @@ week 02;
 week 03-04;
 
 + Vanila Js (No framework) >> JavaScript can be scripting or programming language that allows you to implement complex features on web pages — that makes your website or app interactive 
-> The fasterst growing and msot popular programming language -StackOverflow <br>
-> The programming language of the web <br>  
-> Can update and change both HTML and CSS <br>
-> Fast and versatile <br>
-> Java !== JavaScript <br>
+>> The fasterst growing and msot popular programming language -StackOverflow <br>
+>> The programming language of the web
+>> Can update and change both HTML and CSS <br>
+>> Fast and versatile <br>
+>> Java !== JavaScript <br>
 <br>
-	- [x] [Variable](/Code/variable.md) \\ var, let and const
-	- Array / Objects 
-	- Data type
-	- Events
-	- Functions
-	- Conditions
-	- Loops
+	- [x] [Variable](Code/variable.md) ::: var, let and const
+	- [] Array / Objects 
+	- [] Data type
+	- [] Events
+	- [] Functions
+	- [] Conditions
+	- [] Loops
 	
 + DOM Manipulation & events
 (High order array methods - Manupulating data)
