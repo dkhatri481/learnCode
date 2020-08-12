@@ -1,5 +1,5 @@
 ## Learning Markup Language 
-<span style="color:red">some **week 0;** text</span>
+week 0;
 
 
 > Basic understanding of course and gethering information that suitable for you.
@@ -15,10 +15,10 @@ php - framewrok : Laravel, CodeIgniter <br>
 javascript - framework : React, Vue, Angular & jQuery
 
 ### Basic-HTML & CSS 
-<span style="color:red">some **week 01;** text</span>
+week 01;
 
 + HTML5 Elements 
-	- [Element selector](https://developer.mozilla.org/en-US/docs/Web/HTML/Element "HTML Element Reference") 		 : `h1, h2, h3, P`<br>	
+	- [x] [Element selector](https://developer.mozilla.org/en-US/docs/Web/HTML/Element "HTML Element Reference") 		 : `h1, h2, h3, P`<br>	
 	- Class selector      : `.symbol` 		<br>	
 	- ID selector         : `#symbol` 		<br> 		
 	- Universal selector  : `*symbol`		<br>
@@ -39,7 +39,7 @@ javascript - framework : React, Vue, Angular & jQuery
 ---
 
 ### Basic Deployments 
-<span style="color:red">some **week 02;** text</span>
+week 02;
 
 * Domain Name
 * Manage Hosting With cPannel
@@ -49,16 +49,17 @@ javascript - framework : React, Vue, Angular & jQuery
 	- Github pages 
 
 ### JavaScript
-<span style="color:red">some **week 03-04;** text</span>
+week 03-04;
 
 + Vanila Js (No framework) >> JavaScript can be scripting or programming language that allows you to implement complex features on web pages — that makes your website or app interactive 
-> The fasterst growing and msot popular programming language - <span style="color:red">some **StackOverflow** text</span>
-> The programming language of the web 
-> Can update and change both HTML and CSS
-> Fast and versatile
-> Java != JavaScript
-	[x] [Variable](/Code/variable.md) >>
-	- Array / Objects
+> The fasterst growing and msot popular programming language -StackOverflow <br>
+> The programming language of the web <br>  
+> Can update and change both HTML and CSS <br>
+> Fast and versatile <br>
+> Java !== JavaScript <br>
+<br>
+	- [x] [Variable](/Code/variable.md) \\ var, let and const
+	- Array / Objects 
 	- Data type
 	- Events
 	- Functions
@@ -87,11 +88,11 @@ javascript - framework : React, Vue, Angular & jQuery
 		* extending
 		
 ### php - mvc & mySql
-<span style="color:red">some **week 05;** text</span>
+week 05;
 
 
 ### Side Technologies
-<span style="color:red">some **week 06;** text</span>
+week 06;
 * Git & Github
 * Basic Command Line
 	- npm
@@ -103,7 +104,7 @@ javascript - framework : React, Vue, Angular & jQuery
 ---
 
 ### Framework & Back-End Languages
-<span style="color:red">some **week 07;** text</span>
+week 07;
 * Css-framework
 	- Bootstrap.v4 
 * Front-End 
