@@ -1,9 +1,9 @@
 ### Variables
 
->> Are Case-sensitive
->> Should be meaningful and descriptive
->> Cannot start with a number
->> Cannot contain a space or hyphen(-)
+>> Are Case-sensitive <br>
+>> Should be meaningful and descriptive <br>
+>> Cannot start with a number <br>
+>> Cannot contain a space or hyphen(-) <br>
 >> Cannot be a reserved word
 <br>
 + var // var declarations are globally scoped or function scoped while let and const are block scoped. var variables can be updated and re-declared within its scope;
