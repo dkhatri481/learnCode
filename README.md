@@ -1,10 +1,9 @@
 ## Learning Markup Language 
 week 0;
 
+> Basic understanding of course and gether information that is suitable for web development.
 
-> Basic understanding of course and gethering information that suitable for you.
-
-(HTML & CSS: HTML `HyperText Markup Language` is the main markup language for creating web pages and other information to be displayed in a web browser and CSS `Cascading Style Sheets` allows you to create rules that specify how the content of an element should appear. For example, you can specify the background colors, bg-images or change colors, layout, fonts, and animations. <br>
+HTML & CSS: HTML `HyperText Markup Language` is the main markup language for creating web pages and other information to be displayed in a web browser and CSS `Cascading Style Sheets` allows you to create rules that specify how the content of an element should appear. For example, you can specify the background colors, bg-images or change colors, layout, fonts, and animations. <br>
 PHP, MySQL, JavaScript, and framework
 
 php - `diamemic website` <br>
@@ -19,9 +18,9 @@ week 01;
 
 + HTML5 Elements 
 	- [x] [Element selector](https://developer.mozilla.org/en-US/docs/Web/HTML/Element "HTML Element Reference") 		 : `h1, h2, h3, P`<br>	
-	- [] Class selector      : `.symbol` 		<br>	
-	- [] ID selector         : `#symbol` 		<br> 		
-	- [] Universal selector  : `*symbol`		<br>
+	- [ ] Class selector      : `.symbol` 		<br>	
+	- [ ] ID selector         : `#symbol` 		<br> 		
+	- [ ] Universal selector  : `*symbol`		<br>
 
 + Basic CSS
 	- Positioning 
@@ -54,17 +53,15 @@ week 03-04;
 + Vanila Js (No framework) >> JavaScript can be scripting or programming language that allows you to implement complex features on web pages — that makes your website or app interactive 
 >> The fasterst growing and msot popular programming language -StackOverflow <br>
 >> The programming language of the web
->> Can update and change both HTML and CSS <br>
->> Fast and versatile <br>
->> Java !== JavaScript <br>
-<br>
-	- [x] [Variable](Code/variable.md) ::: var, let and const
-	- [] Array / Objects 
-	- [] Data type
-	- [] Events
-	- [] Functions
-	- [] Conditions
-	- [] Loops
+>> Can update and change both HTML and CSS | Fast and versatile <br>
+
+	- [x] [Variable](code/variable.md) ::: var, let and const <br>
+	- [ ] Array / Objects 
+	- [ ] Data type
+	- [ ] Events
+	- [ ] Functions
+	- [ ] Conditions
+	- [ ] Loops
 	
 + DOM Manipulation & events
 (High order array methods - Manupulating data)
@@ -89,6 +86,43 @@ week 03-04;
 		
 ### php - mvc & mySql
 week 05;
+
++ php - `hypertext Preprocessor`
+>> Open source genral-purpose scripting language <br>
+>> Server side language <br>
+>> Best suited for web development <br>
+>> Can be embedded into HTML <br>
+	
+* Multi-purpose
+	- Simple websites or Complex websites
+	- eCommerce systems
+	- REST APIs
+	- Works with almost all databases
+* PHP CMSs
+	- Wordpress - The most popular CMS
+	- Magento - eCommerce 
+	- Drupal - CMS + eCommerce 
+	- OpenCart
+	   
+* PHP Frameworks
+	- Laravel
+	- Symfony
+	- Codeigniter
+	- Yii2
+
++ Variables & Data types
++ Number / String functions
++ Array - functions
++ Conditionals (if-else, elseif, switch)
++ Loops
++ Superglobals: ($_server, $_Get $_Post $_Session. $_Cookies)
++ Form validation - Ragistratiion form
++ uploading files
++ including files
++ OOPS
+
++ Mysql - notes app
++ Autoloading - composer
 
 
 ### Side Technologies

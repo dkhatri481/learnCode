@@ -4,8 +4,8 @@
 >> Should be meaningful and descriptive <br>
 >> Cannot start with a number <br>
 >> Cannot contain a space or hyphen(-) <br>
->> Cannot be a reserved word
-<br>
+>> Cannot be a reserved word <br>
+
 + var // var declarations are globally scoped or function scoped while let and const are block scoped. var variables can be updated and re-declared within its scope;
 
 ```javascript
@@ -27,7 +27,7 @@
 	console.log(age);
 ```
 
-+ constants // const variables can neither be updated nor re-declared.
++ constants // const variables can neither be updated nor re-declared;
 
 ```javascript
 	
@@ -35,4 +35,4 @@
 	console.log(pi);
 
 ```
-
+Back to Documentation [here](..core/README.md)
