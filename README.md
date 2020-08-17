@@ -55,13 +55,13 @@ week 03-04;
 >> The programming language of the web
 >> Can update and change both HTML and CSS | Fast and versatile <br>
 
-	- [x] [Variable](https://github.com/dkhatri481/learnCode/blob/master/js/variable.md) 		: `var, let and const` <br>
-	- [ ] [Array / Objects] :  
-	- [ ] Data type
-	- [ ] Events
-	- [ ] Functions
-	- [ ] Conditions
-	- [ ] Loops
+- [x] [Variable](https://github.com/dkhatri481/learnCode/blob/master/js/variable.md) 		: var, let and const <br>
+- [ ] [Array / Objects] :  
+- [ ] Data type
+- [ ] Events
+- [ ] Functions
+- [ ] Conditions
+- [ ] Loops
 	
 + DOM Manipulation & events
 (High order array methods - Manupulating data)
