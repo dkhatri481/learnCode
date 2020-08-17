@@ -1,7 +1,7 @@
 ## Learning Markup Language 
 week 0;
 
-> Basic understanding of course and gether information that is suitable for web development.
+> Basic understanding of course and information that is suitable for web development.
 
 HTML & CSS: HTML `HyperText Markup Language` is the main markup language for creating web pages and other information to be displayed in a web browser and CSS `Cascading Style Sheets` allows you to create rules that specify how the content of an element should appear. For example, you can specify the background colors, bg-images or change colors, layout, fonts, and animations. <br>
 PHP, MySQL, JavaScript, and framework
@@ -30,9 +30,9 @@ week 01;
  	- Custom properties 
 	
 + Responsive layout	
-	- Media Queries
-	- Rem Unit
-	- MObil first 
+	- [ ] Media Queries :
+	- [ ] [Rem Unit](https://chiamakaikeanyi.dev/sizing-in-css-px-vs-em-vs-rem/) : `rem` means Root EM. While em is relative to the font-size of its direct or nearest parent, rem is only relative to the html (root) font-size.
+	- [x] Mobile first : A `mobile-first` approach involves designing a desktop site starting with the mobile version, which is then adapted to larger screens (contrary to the traditional approach of starting with a desktop site and then adapting it to smaller screens). Generally speaking, a mobile-first approach means building your website with your mobile users in mind, with the `main goal` of improving these mobile `user's experience` on your site. <br>
 	
 + Browser dev tools
 ---
@@ -50,13 +50,13 @@ week 02;
 ### JavaScript
 week 03-04;
 
-+ Vanila Js (No framework) >> JavaScript can be scripting or programming language that allows you to implement complex features on web pages — that makes your website or app interactive 
++ Vanila Js (No framework) ::: JavaScript can be scripting or programming language that allows you to implement complex features on web pages — that makes your website or app interactive 
 >> The fasterst growing and msot popular programming language -StackOverflow <br>
 >> The programming language of the web
 >> Can update and change both HTML and CSS | Fast and versatile <br>
 
-	- [x] [Variable](code/variable.md) ::: var, let and const <br>
-	- [ ] Array / Objects 
+	- [x] [Variable](https://github.com/dkhatri481/learnCode/blob/master/js/variable.md) 		: `var, let and const` <br>
+	- [ ] [Array / Objects] :  
 	- [ ] Data type
 	- [ ] Events
 	- [ ] Functions
@@ -83,7 +83,7 @@ week 03-04;
 		* methods / properties
 		* instantiation
 		* extending
-		
+---		
 ### php - mvc & mySql
 week 05;
 
@@ -154,11 +154,11 @@ week 07;
 * AI/Chatbot (python + tensorFlow)
 * Interactive Design/ motion UI
 * Prograsive Web App (PWA)
-* Responsive Web-Design [mobil-first] 
+* Responsive Web-Design [mobile-first] 
 * Desctop App Development (Electron)
 * Graph Ql
 * typeScript [optional]
 
 #### Other useful links 
-
++ Some Useful Linux Commands
 
