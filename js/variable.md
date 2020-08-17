@@ -35,4 +35,4 @@
 	console.log(pi);
 
 ```
-Back to Documentation [here](..core/README.md)
+Back to Documentation [here](https://github.com/dkhatri481/learnCode)
