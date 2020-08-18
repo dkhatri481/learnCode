@@ -3,8 +3,9 @@ week 0;
 
 > Basic understanding of course and information that is suitable for web development.
 
-HTML & CSS: HTML `HyperText Markup Language` is the main markup language for creating web pages and other information to be displayed in a web browser and CSS `Cascading Style Sheets` allows you to create rules that specify how the content of an element should appear. For example, you can specify the background colors, bg-images or change colors, layout, fonts, and animations. <br>
-PHP, MySQL, JavaScript, and framework
+HTML & CSS: HTML __HyperText Markup Language__ is the main markup language for creating web pages and other information to be displayed in a web browser and CSS __Cascading Style Sheets__ allows you to create rules that specify how the content of an element should appear. For example, you can specify the background colors, bg-images or change colors, layout, fonts, and animations. <br>
+<br>
+[PHP]() [MySQL]() [JavaScript]() and [framework]()
 
 php - `diamemic website` <br>
 javascript - `animeted web` + `diamemic web`
@@ -32,7 +33,7 @@ week 01;
 + Responsive layout	
 	- [ ] Media Queries :
 	- [ ] [Rem Unit](https://chiamakaikeanyi.dev/sizing-in-css-px-vs-em-vs-rem/) : `rem` means Root EM. While em is relative to the font-size of its direct or nearest parent, rem is only relative to the html (root) font-size.
-	- [x] Mobile first : A `mobile-first` approach involves designing a desktop site starting with the mobile version, which is then adapted to larger screens (contrary to the traditional approach of starting with a desktop site and then adapting it to smaller screens). Generally speaking, a mobile-first approach means building your website with your mobile users in mind, with the `main goal` of improving these mobile `user's experience` on your site. <br>
+	- [x] Mobile first : A __mobile-first__ approach involves designing a desktop site starting with the mobile version, which is then adapted to larger screens (contrary to the traditional approach of starting with a desktop site and then adapting it to smaller screens). Generally speaking, a mobile-first approach means building your website with your mobile users in mind, with the __main goal__ of improving these mobile __user's experience__ on your site. <br>
 	
 + Browser dev tools
 ---
@@ -56,7 +57,7 @@ week 03-04;
 >> Can update and change both HTML and CSS | Fast and versatile <br>
 
 - [x] [Variable](https://github.com/dkhatri481/learnCode/blob/master/js/variable.md) 		: var, let and const <br>
-- [ ] [Array / Objects] :  
+- [ ] [Array / Objects]() :  
 - [ ] Data type
 - [ ] Events
 - [ ] Functions
@@ -87,7 +88,7 @@ week 03-04;
 ### php - mvc & mySql
 week 05;
 
-+ php - `hypertext Preprocessor`
++ php - __hypertext Preprocessor__
 >> Open source genral-purpose scripting language <br>
 >> Server side language <br>
 >> Best suited for web development <br>
@@ -110,7 +111,17 @@ week 05;
 	- Codeigniter
 	- Yii2
 
-+ Variables & Data types
++ [Variables & Data types]() : The basic syntax of variable is dollar sign($) directly folloed by a variable name (using text, with no space) 
+
+```php 
+	$variable_name='my first variable'; 
+```
+There are 4 type of basic variables
+ - boolean
+ - interger
+ - floating point 
+ - string
+ 
 + Number / String functions
 + Array - functions
 + Conditionals (if-else, elseif, switch)

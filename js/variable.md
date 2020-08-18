@@ -1,9 +1,9 @@
 ### Variables
 
->> Are Case-sensitive <br>
+>> Case-sensitive <br>
 >> Should be meaningful and descriptive <br>
 >> Cannot start with a number <br>
->> Cannot contain a space or hyphen(-) <br>
+>> Cannot contain a space or hyphen (-) <br>
 >> Cannot be a reserved word <br>
 
 + var // var declarations are globally scoped or function scoped while let and const are block scoped. var variables can be updated and re-declared within its scope;
@@ -35,4 +35,4 @@
 	console.log(pi);
 
 ```
-Back to Documentation [here](https://github.com/dkhatri481/learnCode)
+Back to [Documentation](https://github.com/dkhatri481/learnCode)
