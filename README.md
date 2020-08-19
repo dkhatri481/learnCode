@@ -88,41 +88,19 @@ week 03-04;
 ### php - mvc & mySql
 week 05;
 
-+ php - __hypertext Preprocessor__
++ php - __Hypertext Preprocessor__ is a server scripting language, and a powerful tool for making dynamic and interactive Web pages. <br>
+
+Static Web Page : `A static web page never changes, unless a person specifically edits the page` <br>
+
+Dynamic Web Page : `A dynamic web page can be different every time it is viewed by a browser, because the server edits the page prior to sending it to the browser, according to what instructions the programmer has coded into that specific page` <br>
+
 >> Open source genral-purpose scripting language <br>
 >> Server side language <br>
 >> Best suited for web development <br>
 >> Can be embedded into HTML <br>
 	
-* Multi-purpose
-	- Simple websites or Complex websites
-	- eCommerce systems
-	- REST APIs
-	- Works with almost all databases
-* PHP CMSs
-	- Wordpress - The most popular CMS
-	- Magento - eCommerce 
-	- Drupal - CMS + eCommerce 
-	- OpenCart
-	   
-* PHP Frameworks
-	- Laravel
-	- Symfony
-	- Codeigniter
-	- Yii2
 
-+ [Variables & Data types]() : The basic syntax of variable is dollar sign($) directly folloed by a variable name (using text, with no space) 
-
-```php 
-	$variable_name='my first variable'; 
-```
-There are 4 type of basic variables
- - boolean
- - interger
- - floating point 
- - string
- 
-+ Number / String functions
++ [Variables & Data types]() : 
 + Array - functions
 + Conditionals (if-else, elseif, switch)
 + Loops
