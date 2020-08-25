@@ -24,7 +24,7 @@ week 01;
 	- [ ] Universal selector  : `*symbol`		<br>
 
 + Basic CSS
-	- Positioning 
+	- [Positioning]() : The position property can help you manipulate the location of an element
 	- Model Box
 	- Flexbox
 	- Grid
@@ -88,20 +88,15 @@ week 03-04;
 ### php - mvc & mySql
 week 05;
 
-+ php - __Hypertext Preprocessor__ is a server scripting language, and a powerful tool for making dynamic and interactive Web pages. <br>
-
-Static Web Page : `A static web page never changes, unless a person specifically edits the page` <br>
-
-Dynamic Web Page : `A dynamic web page can be different every time it is viewed by a browser, because the server edits the page prior to sending it to the browser, according to what instructions the programmer has coded into that specific page` <br>
++ php - __Hypertext Preprocessor__ is a server scripting language, and a powerful tool for making dynamic and interactive Web pages. A __static web page__ never changes, unless a person specifically edits the page` <br>
+A __dynamic web page__ can be different every time it is viewed by a browser, because the server edits the page prior to sending it to the browser, according to what instructions the programmer has coded into that specific page` <br>
 
 >> Open source genral-purpose scripting language <br>
->> Server side language <br>
->> Best suited for web development <br>
+>> Server side language | Best suited for web development <br>
 >> Can be embedded into HTML <br>
 	
-
-+ [Variables & Data types]() : 
-+ Array - functions
++ [Variables & Data types](https://github.com/dkhatri481/learnCode/blob/master/php/variable.md) : 
++ [Array - functions]
 + Conditionals (if-else, elseif, switch)
 + Loops
 + Superglobals: ($_server, $_Get $_Post $_Session. $_Cookies)
@@ -149,5 +144,5 @@ week 07;
 * typeScript [optional]
 
 #### Other useful links 
-+ Some Useful Linux Commands
++ [Some Useful Linux Commands]() 
 
