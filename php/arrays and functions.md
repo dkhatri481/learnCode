@@ -92,31 +92,3 @@ The above code will display __Fu Manchu__.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
