@@ -1,13 +1,13 @@
 ### FILE COMMANDS
 
 ```bash
-ls			:: directory listing
-ls -al			:: formatted listing with hidden files
-cd dir			:: change directory to dir
-cd			:: change to home
-pwd			:: show current directory
+ls						:: directory listing
+ls -al				:: formatted listing with hidden files
+cd dir				:: change directory to dir
+cd						:: change to home
+pwd					:: show current directory
 mkdir dir			:: create directory dir
-rm file			:: delete file
+rm file				:: delete file
 rm -r dir			:: delete directory dir
 rm -f file			:: force remove file
 rm -rf dir			:: remove directory dir
@@ -25,9 +25,9 @@ tail -f file			:: output contents of file as it grows
 ### SSH
 
 ```bash
-shh user@host				:: connect to host or user
-shh -p port user@host	:: connect using port p
-ssh -D port user@host	:: connect and use bind port
+shh user@host			:: connect to host or user
+shh -p port user@host			:: connect using port p
+ssh -D port user@host			:: connect and use bind port
 ```
 
 ### INSTALLATION
@@ -40,11 +40,27 @@ make install
 
 ```bash
 ping host			:: ping host 'host'
-whois domain			::get whois for domain
+whois domain			:: get whois for domain
 dig domain			:: get DNS for domain
 dig -x host			:: reverse lookup host 
 wget file			:: download file 
 wget -c file			:: continue stopped download 
 wget -r url			:: recursively download files from url
 ```
-
+### SYSTEM INFO
+```bash
+date			:: show current 'date/time'
+cal			:: show this month's calendar'
+uptime			:: show uptime
+w			:: display who is online 
+whoami			:: who are you logged in as
+uname -a			:: show kernel config 
+cat /proc/cpuinfo			:: cpu info
+cat /proc/meminfo			:: memory info
+man command			:: show manual for command
+df			:: show disk usage
+du			:: show directory space usage 
+du -sh			:: human readable size in 'GB'
+free			:: show possible locations of app 
+which app			:: show which app will be run by default 
+```
