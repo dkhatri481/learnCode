@@ -67,20 +67,69 @@ which app		:: show which app will be run by default
 
 ### SEARCHING
 ```bash
-grep pattern files 			:: search for pattern in files 
-grep -r pattern dir 			:: search recursively for pattern in dir
+grep pattern files 		:: search for pattern in files 
+grep -r pattern dir 		:: search recursively for pattern in dir
 command | grep pattern 		:: search for pattern in the output of command
 local file 			:: find all instances of file
 ```
 ### PROCESS MANAGEMENT
 ```bash
 ps 			:: display currently active processes
-ps aux 		:: ps with a lot of details 
-kill pid 	:: kill process with pid 'pid'
-killall proc 	:: kill all processes named 'proc'
+ps aux 			:: ps with a lot of details 
+kill pid 		:: kill process with pid 'pid'
+killall proc 		:: kill all processes named 'proc'
 bg 			:: lists stopped / background jobs, resume stopped job in the background 
 fg 			:: bring most recent job to foreground 
 fg n 			:: brings job n to foreground 
 ```
+### FILE PERMISSIONS 
+> chmod octal file - change permission of file
+			4 - read (r)
+			2 - write (w)
+			1 - execute (x)
+			
+			order :: owner/group/world
+			
+			eg::
+			
+			```bash
+			chmod 777 ==> rwx for everyone 
+			chmod 755 ==> rw for owner, rx for group/world
+			```
+### COMPRESSION
+```bash
 
+tar cf file.tar files :: tar files into file.tar
+tar xf file.tar	:: untar into current directory
+tar tf file.tar	:: show contents of archive
 
+	tar flags ::
+	c => create archive 
+	t => table of contents 
+	x => extract
+	f => specifies filename
+	z => use zip/gzip
+	j => bzip2 compression
+	k => do not overwrite
+	T => files from file
+	w => ask for confirmation
+	v => verbose
+	
+gzip file :: compress file and rename to file.gz
+gzip -d file.gz :: decompress file.gz
+```
+
+### SHORTCUTS 
+```bash
+ctrl+c :: halts current command
+ctrl+z :: stops current command
+fg :: resume stopped command in foreground 
+bg :: resume stopped command in background
+ctrl+d :: log out of current session
+ctrl+w :: erases one world in current line
+ctrl+u :: erases whole line
+ctrl+r :: reverse lookup of previous command
+!! :: repeat last command
+exit :: log out of current session 
+```
+---
