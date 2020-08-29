@@ -1,11 +1,11 @@
 ### FILE COMMANDS
 
 ```bash
-ls						:: directory listing
+ls				:: directory listing
 ls -al				:: formatted listing with hidden files
 cd dir				:: change directory to dir
-cd						:: change to home
-pwd					:: show current directory
+cd				:: change to home
+pwd				:: show current directory
 mkdir dir			:: create directory dir
 rm file				:: delete file
 rm -r dir			:: delete directory dir
@@ -26,8 +26,8 @@ tail -f file			:: output contents of file as it grows
 
 ```bash
 shh user@host			:: connect to host or user
-shh -p port user@host			:: connect using port p
-ssh -D port user@host			:: connect and use bind port
+shh -p port user@host		:: connect using port p
+ssh -D port user@host		:: connect and use bind port
 ```
 
 ### INSTALLATION
@@ -54,13 +54,33 @@ cal			:: show this month's calendar'
 uptime			:: show uptime
 w			:: display who is online 
 whoami			:: who are you logged in as
-uname -a			:: show kernel config 
-cat /proc/cpuinfo			:: cpu info
-cat /proc/meminfo			:: memory info
-man command			:: show manual for command
+uname -a		:: show kernel config 
+cat /proc/cpuinfo	:: cpu info
+cat /proc/meminfo	:: memory info
+man command		:: show manual for command
 df			:: show disk usage
 du			:: show directory space usage 
 du -sh			:: human readable size in 'GB'
 free			:: show possible locations of app 
-which app			:: show which app will be run by default 
+which app		:: show which app will be run by default 
 ```
+
+### SEARCHING
+```bash
+grep pattern files 			:: search for pattern in files 
+grep -r pattern dir 			:: search recursively for pattern in dir
+command | grep pattern 		:: search for pattern in the output of command
+local file 			:: find all instances of file
+```
+### PROCESS MANAGEMENT
+```bash
+ps 			:: display currently active processes
+ps aux 		:: ps with a lot of details 
+kill pid 	:: kill process with pid 'pid'
+killall proc 	:: kill all processes named 'proc'
+bg 			:: lists stopped / background jobs, resume stopped job in the background 
+fg 			:: bring most recent job to foreground 
+fg n 			:: brings job n to foreground 
+```
+
+
