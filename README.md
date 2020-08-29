@@ -91,7 +91,7 @@ A __dynamic web page__ can be different every time it is viewed by a browser, be
 >> Can be embedded into HTML <br>
 	
 + [Variables & Data types](https://github.com/dkhatri481/learnCode/blob/master/php/variable.md) : 
-+ [Array - functions](https://github.com/dkhatri481/learnCode/blob/master/php/arrays%20and%20functions.md) :
++ [Array - functions](https://github.com/dkhatri481/learnCode/blob/master/php/arrays_func.md) :
 + Conditionals (if-else, elseif, switch)
 + Loops
 + Superglobals: ($_server, $_Get $_Post $_Session. $_Cookies)
@@ -139,5 +139,5 @@ week 07;
 * typeScript [optional]
 
 #### Other useful links 
-+ [Some Useful Linux Commands]()
++ [Some Useful Linux Commands](https://github.com/dkhatri481/learnCode/blob/master/linux/bash.md)
 
