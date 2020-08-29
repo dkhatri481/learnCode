@@ -3,7 +3,7 @@ week 0;
 
 > Basic understanding of course and information that is suitable for web development.
 
-HTML & CSS: HTML __HyperText Markup Language__ is the main markup language for creating web pages and other information to be displayed in a web browser and CSS __Cascading Style Sheets__ allows you to create rules that specify how the content of an element should appear. For example, you can specify the [background colors], [bg-images] or change [colors], [layout], [fonts], and [animations]. <br>
+HTML & CSS: HTML __HyperText Markup Language__ is the main markup language for creating web pages and other information to be displayed in a web browser and CSS __Cascading Style Sheets__ allows you to create rules that specify how the content of an element should appear. For example, you can specify the [background colors](), [bg-images]() or change [colors](), [layout](), [fonts](), and [animations](). <br>
 <br>
 [PHP]() [MySQL]() [JavaScript]() and [framework]()
 
@@ -20,15 +20,15 @@ week 01;
 
 + Basic CSS
 	- [Positioning]() : The position property can help you manipulate the location of an element
-	- Model Box
-	- Flexbox
-	- Grid
- 	- Custom properties 
+	- [Model Box]()	:
+	- [Flexbox]()		:
+	- [Grid]()
+ 	- [Custom properties]() : 
 	
 + Responsive layout	
 	- [ ] [Media Queries]() : The `@media` rule apply in different styles for different media types/devices.
 	- [ ] [Rem Unit](https://chiamakaikeanyi.dev/sizing-in-css-px-vs-em-vs-rem/) : `rem` means Root EM. While em is relative to the font-size of its direct or nearest parent, rem is only relative to the html (root) font-size.
-	- [x] Mobile first : A __mobile-first__ approach involves designing a desktop site starting with the mobile version, which is then adapted to larger screens (contrary to the traditional approach of starting with a desktop site and then adapting it to smaller screens). Generally speaking, a mobile-first approach means building your website with your mobile users in mind, with the __main goal__ of improving these mobile __user's experience__ on your site. <br>
+	- [x] [Mobile first]() : A __mobile-first__ approach involves designing a desktop site starting with the mobile version, which is then adapted to larger screens (contrary to the traditional approach of starting with a desktop site and then adapting it to smaller screens). Generally speaking, a mobile-first approach means building your website with your mobile users in mind, with the __main goal__ of improving these mobile __user's experience__ on your site. <br>
 	
 + Browser dev tools
 ---
@@ -139,5 +139,5 @@ week 07;
 * typeScript [optional]
 
 #### Other useful links 
-+ [Some Useful Linux Commands]() 
++ [Some Useful Linux Commands]()
 
