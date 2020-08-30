@@ -85,15 +85,15 @@ fg n 				:: brings job n to foreground
 ### FILE PERMISSIONS 
 > chmod octal file - change permission of file<br>
 ```bash
-			4 - read (r)
-			2 - write (w)
-			1 - execute (x)
+	4 - read (r)
+	2 - write (w)
+	1 - execute (x)
 			
-			order 	:: owner/group/world
+	order 	:: owner/group/world
 			
-			eg::
-			chmod 777	:: rwx for everyone 
-			chmod 755	:: rw for owner, rx for group/world
+		eg::
+		chmod 777	:: rwx for everyone 
+		chmod 755	:: rw for owner, rx for group/world
 ```					
 ### COMPRESSION
 ```bash
@@ -102,7 +102,7 @@ tar cf file.tar files 		:: tar files into file.tar
 tar xf file.tar			:: untar into current directory
 tar tf file.tar			:: show contents of archive
 
-	tar flags ::
+	tar flags
 	c 	:: create archive 
 	t 	:: table of contents 
 	x 	:: extract
@@ -130,7 +130,7 @@ ctrl+u 				:: erases whole line
 ctrl+r 				:: reverse lookup of previous command
 ! 				:: repeat specified command
 !! 				:: repeat last command
-reset 					:: restore a terminal to its default settings
+reset 				:: restore a terminal to its default settings
 exit 				:: log out of current session 
 ```
 ---
