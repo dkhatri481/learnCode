@@ -83,52 +83,54 @@ fg 				:: bring most recent job to foreground
 fg n 				:: brings job n to foreground 
 ```
 ### FILE PERMISSIONS 
-> chmod octal file - change permission of file
+> chmod octal file - change permission of file<br>
+```bash
 			4 - read (r)
 			2 - write (w)
 			1 - execute (x)
 			
-			order :: owner/group/world
+			order 	:: owner/group/world
 			
 			eg::
-			
-			chmod 777		::: rwx for everyone 
-			chmod 755		::: rw for owner, rx for group/world
-			
+			chmod 777	:: rwx for everyone 
+			chmod 755	:: rw for owner, rx for group/world
+```					
 ### COMPRESSION
 ```bash
 
-tar cf file.tar files 	:: tar files into file.tar
+tar cf file.tar files 		:: tar files into file.tar
 tar xf file.tar			:: untar into current directory
 tar tf file.tar			:: show contents of archive
 
 	tar flags ::
-	c 		:: create archive 
-	t 		:: table of contents 
-	x 		:: extract
-	f 		:: specifies filename
-	z 		:: use zip/gzip
-	j 		:: bzip2 compression
-	k 		:: do not overwrite
-	T 		:: files from file
-	w 		:: ask for confirmation
-	v 		:: verbose
+	c 	:: create archive 
+	t 	:: table of contents 
+	x 	:: extract
+	f 	:: specifies filename
+	z 	:: use zip/gzip
+	j 	:: bzip2 compression
+	k 	:: do not overwrite
+	T 	:: files from file
+	w 	:: ask for confirmation
+	v 	:: verbose
 	
 gzip file 			:: compress file and rename to file.gz
-gzip -d file.gz 			:: decompress file.gz
+gzip -d file.gz 		:: decompress file.gz
 ```
 
-### SHORTCUTS 
+### SHORTHAND
 ```bash
-ctrl+c 			:: halts current command
-ctrl+z 			:: stops current command
-fg 			:: resume stopped command in foreground 
-bg 			:: resume stopped command in background
-ctrl+d 			:: log out of current session
-ctrl+w 			:: erases one world in current line
-ctrl+u 			:: erases whole line
-ctrl+r 			:: reverse lookup of previous command
-!! 			:: repeat last command
-exit 			:: log out of current session 
+ctrl+c 				:: halts current command
+ctrl+z 				:: stops current command
+fg 				:: resume stopped command in foreground 
+bg 				:: resume stopped command in background
+ctrl+d 				:: log out of current session
+ctrl+w 				:: erases one world in current line
+ctrl+u 				:: erases whole line
+ctrl+r 				:: reverse lookup of previous command
+! 				:: repeat specified command
+!! 				:: repeat last command
+reset 					:: restore a terminal to its default settings
+exit 				:: log out of current session 
 ```
 ---
